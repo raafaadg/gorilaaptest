@@ -20,3 +20,9 @@ npm run build
 ```
 npm run lint
 ```
+### Como utilizar
+```
+Deve-se informar a data de contratação do CDB e a sua TAXA para que o cálculo sejá realizado até o dia atual ou o último dia disponível no banco de informações.
+```
+
+https://rafael-cdb.firebaseapp.com/
